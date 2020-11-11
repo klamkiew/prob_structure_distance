@@ -1,0 +1,12 @@
+>structure01
+CGGCUCGCAACAGACCUAUUAGUUUUACGUAAUAUUUGGAACGAUCUAUAACACGACUUCACUCUU
+.((.(((...((((..(((((........)))))))))...))).))................... ( -5.40)
+.((.(((...((({..(((((........)))))})))...))).)}................... [ -6.39]
+....(((...((((..(((((........)))))))))...)))...................... { -4.50 d=7.97}
+ frequency of mfe structure in ensemble 0.201079; ensemble diversity 12.36 
+>structure02
+CGGCACGCUUCAGACCUAUUAGUUUUACGUAAUAUUCGGAACGAUCUAGCCGACGAAAAAACUCUU
+((((.((.(((.((..(((((........))))).)).))))).....)))).............. ( -8.30)
+((((.{(.(((.((..(((((........))))).)).))))).....)))).............. [ -9.44]
+((((.((.(((.((..(((((........))))).)).))))).....)))).............. { -8.30 d=5.12}
+ frequency of mfe structure in ensemble 0.15637; ensemble diversity 8.17  
