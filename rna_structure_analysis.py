@@ -31,12 +31,12 @@ def rnafold_dp_parse(file_path):
 
 def p_distances_squared(rna_len, pairing_rna1, pairing_rna2):
     '''
-    Takes two dictionaries, ti and pairing_rna2, and the length 
+    Takes two dictionaries, pairing_rna1 and pairing_rna2, and the length 
     of the originating RNA sequence, rna_len, and returns a dictionarry with 
     coordinates i and j as keys and the squared between each coordinate. 
 
     Preconditions:
-        Both dictionaries, ti and pairing_rna2, should have 
+        Both dictionaries, pairing_rna1 and pairing_rna2, should have 
         coordinates i and j as keys and pairing probabilities as values.
         The RNA sequences originating the base pairing probabilities must have 
         the same size.
